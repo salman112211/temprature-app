@@ -42,7 +42,7 @@ const App = () => {
 
         <button onClick={() => increseTemprature()}>+</button>
         <button onClick={() => DcreseTemprature()}>-</button>
-
+  
 
       </div>
 
